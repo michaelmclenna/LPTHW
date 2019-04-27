@@ -1,0 +1,4 @@
+1. Go back through and write a comment on what each line does.
+2. Read each one backward or out loud to find your errors.
+3. From now on, when you make mistakes, write down on a piece of paper what kind of mistake
+you made
